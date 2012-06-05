@@ -1,0 +1,17 @@
+{
+  "author": "Florian Demmer <florian@cycling74.com>",
+  "name": "MaxComm",
+  "description": "A module that allows an easy communication with Max MSP using UDP and furthermore communication with any browser using socket.io",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fde31/node-MaxComm.git"
+  },
+  "main": "index",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
