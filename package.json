@@ -1,5 +1,5 @@
 {
-  "author": "Florian Demmer <florian@cycling74.com>",
+  "author": "Florian Demmer",
   "name": "MaxComm",
   "description": "A module that allows an easy communication with Max MSP using UDP and furthermore communication with any browser using socket.io",
   "version": "0.0.0",
